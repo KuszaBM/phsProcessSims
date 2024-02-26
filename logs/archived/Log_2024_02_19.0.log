@@ -1,0 +1,21 @@
+2024-02-19 14:50:30.296 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-19 14:50:30.434 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-19 14:50:30.995 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 23384 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-19 14:50:30.999 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-19 14:50:32.348 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-19 14:50:32.712 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-19 14:50:33.070 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.396 seconds (process running for 3.833)
+2024-02-19 14:51:49.261 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-19 14:51:49.385 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-19 14:51:49.798 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 21764 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-19 14:51:49.799 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-19 14:51:51.122 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-19 14:51:51.480 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-19 14:51:51.833 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.256 seconds (process running for 3.434)
+2024-02-19 14:55:43.326 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-19 14:55:43.458 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-19 14:55:43.858 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 19832 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-19 14:55:43.859 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-19 14:55:45.101 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-19 14:55:45.466 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-19 14:55:45.836 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.21 seconds (process running for 3.385)

@@ -1,0 +1,472 @@
+2024-02-21 07:47:39.680 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 07:47:39.884 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 07:47:40.367 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 7388 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 07:47:40.369 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 07:47:42.231 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 07:47:42.237 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 07:47:42.237 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 07:47:42.242 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 07:47:42.713 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 07:47:43.072 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.946 seconds (process running for 4.483)
+2024-02-21 07:59:58.797 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 07:59:58.930 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 07:59:59.373 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 18048 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 07:59:59.374 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:00:00.937 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:00:00.943 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:00:00.944 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:00:00.948 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.948 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.948 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.949 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.950 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.951 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.952 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.953 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:00:00.954 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:00:01.478 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:00:01.783 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.656 seconds (process running for 3.818)
+2024-02-21 08:12:00.951 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:12:01.150 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:12:01.644 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 27032 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:12:01.645 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:12:03.280 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:12:03.287 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:12:03.287 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:12:03.291 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.291 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.293 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.294 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.294 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.294 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.294 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.294 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:12:03.295 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:12:03.771 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:12:04.181 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.787 seconds (process running for 4.313)
+2024-02-21 08:15:10.927 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:15:11.053 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:15:11.467 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 14572 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:15:11.468 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:15:12.953 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:15:12.959 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:15:12.959 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:15:12.963 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.963 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.963 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.963 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.964 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.965 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.966 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.966 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:null
+2024-02-21 08:15:12.966 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:15:13.381 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:15:13.676 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.433 seconds (process running for 3.626)
+2024-02-21 08:16:26.124 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:16:26.288 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:16:26.739 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 30668 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:16:26.741 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:16:28.230 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:16:28.234 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:16:28.235 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:16:28.237 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 08:16:28.238 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 08:16:28.239 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 08:16:28.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 08:16:28.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 08:16:28.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 08:16:28.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 08:16:28.242 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:16:28.637 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:16:28.933 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.438 seconds (process running for 3.68)
+2024-02-21 08:18:34.634 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:18:34.755 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:18:35.157 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 21016 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:18:35.159 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:18:36.511 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:18:36.515 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:18:36.516 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 08:18:36.519 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 08:18:36.520 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 08:18:36.521 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 08:18:36.521 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:18:36.909 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:18:37.203 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.251 seconds (process running for 3.437)
+2024-02-21 08:24:59.207 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:24:59.353 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:24:59.833 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 21816 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:24:59.835 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:25:01.232 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:25:01.237 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:25:01.238 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 08:25:01.240 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 08:25:01.241 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 08:25:01.242 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 08:25:01.242 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 08:25:01.242 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:25:01.613 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:25:01.901 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.339 seconds (process running for 3.559)
+2024-02-21 08:28:24.954 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:28:25.116 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:28:25.589 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 28692 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:28:25.590 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:28:26.917 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:28:26.921 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:28:26.922 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 08:28:26.925 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 08:28:26.926 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 08:28:26.927 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 08:28:26.927 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:28:27.314 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:28:27.620 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.264 seconds (process running for 3.518)
+2024-02-21 08:33:21.442 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 08:33:21.611 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 08:33:22.128 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 20460 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 08:33:22.130 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 08:33:23.600 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 08:33:23.616 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 08:33:23.617 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 08:33:23.620 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 08:33:23.621 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 08:33:23.623 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 08:33:23.624 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 08:33:23.624 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 08:33:23.625 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 08:33:23.625 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 08:33:23.625 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 08:33:23.625 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 08:33:23.626 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 08:33:23.627 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 08:33:24.037 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 08:33:24.390 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.501 seconds (process running for 3.791)
+2024-02-21 09:07:05.193 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 09:07:05.400 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 09:07:05.842 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 29256 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 09:07:05.843 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 09:07:07.501 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 09:07:07.504 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 09:07:07.505 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 09:07:07.508 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 09:07:07.508 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 09:07:07.508 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 09:07:07.903 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 09:07:08.225 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.626 seconds (process running for 4.217)
+2024-02-21 11:43:05.386 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 11:43:05.520 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 11:43:06.149 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 25760 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 11:43:06.151 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 11:43:07.754 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 11:43:07.760 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 11:43:07.761 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 11:43:07.762 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 11:43:07.763 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 11:43:07.763 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 11:43:07.764 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 11:43:07.767 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 11:43:07.767 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 11:43:07.768 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 11:43:08.164 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 11:43:08.495 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.638 seconds (process running for 4.3)
+2024-02-21 11:52:07.506 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 11:52:07.661 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 11:52:08.121 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 19952 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 11:52:08.123 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 11:52:09.547 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 11:52:09.553 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 11:52:09.554 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 11:52:09.555 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 11:52:09.555 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 11:52:09.556 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 11:52:09.557 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 11:52:09.560 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 11:52:09.560 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 11:52:09.560 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 11:52:09.560 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 11:52:09.561 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 11:52:09.928 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 11:52:10.239 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.364 seconds (process running for 3.619)
+2024-02-21 11:52:28.830 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 11:52:28.961 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 11:52:29.373 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 19220 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 11:52:29.374 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 11:52:30.860 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 11:52:30.865 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 11:52:30.866 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 11:52:30.867 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 11:52:30.867 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 11:52:30.868 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 11:52:30.868 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 11:52:30.871 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 11:52:30.871 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 11:52:30.871 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 11:52:30.871 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 11:52:30.872 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 11:52:30.872 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 11:52:30.872 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 11:52:30.872 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 11:52:30.872 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 11:52:30.873 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 11:52:30.873 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 11:52:31.283 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 11:52:31.579 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.439 seconds (process running for 3.627)
+2024-02-21 12:54:59.979 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 12:55:00.121 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 12:55:00.525 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 10400 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 12:55:00.528 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 12:55:01.992 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 12:55:01.997 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 12:55:01.998 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 12:55:01.998 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 12:55:01.999 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 12:55:02.000 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 12:55:02.001 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 12:55:02.004 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 12:55:02.004 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 12:55:02.004 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 12:55:02.004 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 12:55:02.004 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 12:55:02.005 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 12:55:02.357 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 12:55:02.696 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.405 seconds (process running for 3.761)
+2024-02-21 14:23:35.708 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 14:23:35.876 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 14:23:36.307 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 28296 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 14:23:36.310 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 14:23:38.004 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 14:23:38.010 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 14:23:38.011 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 14:23:38.012 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 14:23:38.013 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 14:23:38.014 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 14:23:38.015 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 14:23:38.019 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 14:23:38.019 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 14:23:38.019 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 14:23:38.019 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 14:23:38.019 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 14:23:38.020 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 14:23:38.421 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 14:23:38.708 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.618 seconds (process running for 3.889)
+2024-02-21 14:32:54.180 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 14:32:54.310 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 14:32:54.722 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 15408 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 14:32:54.723 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 14:32:56.185 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 14:32:56.190 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 14:32:56.191 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 14:32:56.193 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 14:32:56.193 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 14:32:56.194 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 14:32:56.195 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 14:32:56.198 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 14:32:56.198 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 14:32:56.198 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 14:32:56.199 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2000AC40
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2100AC42
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2200AC44
+2024-02-21 14:32:56.200 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2300AC46
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2400AC48
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2500AC50
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2600AC52
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2700AC54
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2800AC56
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2900AC58
+2024-02-21 14:32:56.201 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 14:32:56.613 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 14:32:56.901 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.399 seconds (process running for 3.66)
+2024-02-21 14:38:36.821 [main]            INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.amsort.processSim.process.ProcessApplicationTests]: ProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-21 14:38:37.054 [main]            INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.amsort.processSim.process.ProcessApplication for test class com.amsort.processSim.process.ProcessApplicationTests
+2024-02-21 14:38:37.507 [main]            INFO  c.a.p.p.ProcessApplicationTests - Starting ProcessApplicationTests using Java 17.0.9 with PID 29724 (started by JakubKusza in C:\workData\projects\work\java\projekty\processSim\process)
+2024-02-21 14:38:37.509 [main]            INFO  c.a.p.p.ProcessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-02-21 14:38:38.888 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK1
+2024-02-21 14:38:38.894 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK2
+2024-02-21 14:38:38.895 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - SK3
+2024-02-21 14:38:38.895 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out4
+2024-02-21 14:38:38.896 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out5
+2024-02-21 14:38:38.897 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out6
+2024-02-21 14:38:38.897 [main]            INFO  c.a.p.p.m.b.BaseCommunicationPoint - Subscribed - Out7
+2024-02-21 14:38:38.900 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC0AC0
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC100AC2
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC200AC4
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC300AC6
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC400AC8
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC500AC10
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC600AC12
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC700AC14
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC800AC16
+2024-02-21 14:38:38.901 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC900AC18
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1000AC20
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1100AC22
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1200AC24
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1300AC26
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1400AC28
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1500AC30
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1600AC32
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1700AC34
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1800AC36
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC1900AC38
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2000AC40
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2100AC42
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2200AC44
+2024-02-21 14:38:38.902 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2300AC46
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2400AC48
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2500AC50
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2600AC52
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2700AC54
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2800AC56
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC2900AC58
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3000AC60
+2024-02-21 14:38:38.904 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3100AC62
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3200AC64
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3300AC66
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3400AC68
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3500AC70
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3600AC72
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3700AC74
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3800AC76
+2024-02-21 14:38:38.905 [main]            INFO  c.a.p.process.processSim.Process - unit: unit | BC:BC3900AC78
+2024-02-21 14:38:38.906 [main]            INFO  c.a.p.p.c.GeneralController - Controller up
+2024-02-21 14:38:39.345 [main]            INFO  o.s.b.a.e.w.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-21 14:38:39.653 [main]            INFO  c.a.p.p.ProcessApplicationTests - Started ProcessApplicationTests in 2.381 seconds (process running for 3.745)
